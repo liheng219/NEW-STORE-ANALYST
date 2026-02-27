@@ -1,1 +1,4 @@
-phân tích tình hình kinh doanh trong năm của các cửa hàng mới:  thống kê số cửa hàng mới được mở theo tháng và loại hình kinh doanh (Fashions Direct hay Lindseys); thống kê doanh thu trong năm hiện tại theo từng cửa hàng;  thống kê tình hình kinh doanh của các cửa hàng theo tháng; hiển thị vị trí kinh của từng cửa hang theo loại
+phân tích tình hình kinh doanh trong năm của các cửa hàng mới:  
+thống kê số cửa hàng mới được mở theo tháng và loại hình kinh doanh (Fashions Direct hay Lindseys);
+thống kê doanh thu trong năm hiện tại theo từng cửa hàng; 
+thống kê tình hình kinh doanh của các cửa hàng theo tháng; hiển thị vị trí kinh của từng cửa hang theo loại
