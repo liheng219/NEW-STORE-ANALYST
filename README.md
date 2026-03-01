@@ -59,14 +59,17 @@ Contribution %
 Previous Year comparison
 
 ## Business Insights
-Revenue & Growth: 
+### Revenue & Growth: 
 Doanh thu tăng trưởng ổn định từ 2012 đến 2019, đạt gần 0.5 tỷ USD vào năm 2019.
 Tuy nhiên, tốc độ tăng trưởng có xu hướng giảm dần theo thời gian (từ ~27% xuống ~7–10%), cho thấy doanh nghiệp đang bước vào giai đoạn bão hòa — quy mô mở rộng nhưng động lực tăng trưởng chậm lại.
 Phân khúc Urban đóng góp khoảng 80% tổng doanh thu, cho thấy sự phụ thuộc lớn vào thị trường đô thị.
 Điều này tạo ra rủi ro nếu thị trường Urban bão hòa hoặc cạnh tranh gia tăng.
 
-Growth Opportunity Segments:
+### Growth Opportunity Segments:
 Các phân khúc Youth và Mix - Có tốc độ tăng trưởng cao (>24%) nhưng tỷ trọng doanh thu còn thấp (<2%).
 Đây là nhóm tiềm năng để đa dạng hóa nguồn doanh thu
+
+## Full files: 
+[FILE .PBIX, DATASETS](https://drive.google.com/drive/folders/1A5F8P8bjoEcsNYOFlgpkeog6vbh1WyVB)
 
 
